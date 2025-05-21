@@ -1,0 +1,15 @@
+# 🧩 Order Matching Engine - Progress Notes
+
+## ✅ Completed
+- [x] Set up IntelliJ project with Maven
+- [x] Added JUnit and Lombok in pom.xml
+- [x] Created package: com.fintech.matching.model
+- [x] Implemented Order.java
+
+## 🔜 Next Steps
+- [ ] Create Trade.java
+- [ ] OrderBook.java with sorted buy/sell lists
+- [ ] Implement matching logic
+- [ ] Add order cancellation feature
+- [ ] Print order book and trade history
+- [ ] Write unit tests
